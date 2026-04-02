@@ -43,9 +43,6 @@ Runs continuously during market hours (6:30 AM – 1:05 PM PT), scanning for RSI
 - **Telegram Bot integration:** Delivers automated market summaries in Chinese every 2 minutes during trading hours for quick mobile monitoring
 - **Pivot-point based detection** with configurable window size
 
-#### Telegram Alert Example
-![Telegram Alert](IMG_3522.jpeg)
-
 ### 4. `SixFactorAnalyzer.py`
 **AI-powered fundamental analysis toolkit**
 
