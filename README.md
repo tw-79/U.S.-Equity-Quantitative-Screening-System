@@ -43,8 +43,8 @@ Runs continuously during market hours (6:30 AM – 1:05 PM PT), scanning for RSI
     -   Hidden Bullish — Higher low + RSI new low → uptrend continuation
     -   Hidden Bearish — Lower high + RSI new high → downtrend continuation
 -   **ETF confluence detection:** Cross-validates QQQ/SPY signals against UVXY/SOXS for confirmation
--   **Telegram Bot integration:** Automated alerts delivered every 2 minutes
 -   **Pivot-point based detection** with configurable window size
+-   **Telegram alerts:** Sends a concise summary （in Chinese) every X minutes during market hours, including 0-Bar/1-Bar signal status across 3-min (RSI-7) and 30-min (RSI-14) timeframes, ETF confluence results (QQQ/SPY vs. UVXY/SOXS), and individual stock signals — all formatted in Chinese for quick at-a-glance review
 
 ------------------------------------------------------------------------
 
